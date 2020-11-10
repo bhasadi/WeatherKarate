@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59a2417b-2a9e-40c0-9fc4-f35e1a52c148" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0ZriUgOBCTEy0MCYbAQiwKNUC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.weatherAPI.weatherFeatures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.runFeature.testFeature">
+    <configuration name="runFeature.testFeature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherKarate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weatherAPI.weatherFeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weatherAPI.weatherFeatures" />
+      <option name="MAIN_CLASS_NAME" value="com.weatherAPI.weatherFeatures.runFeature" />
+      <option name="METHOD_NAME" value="testFeature" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weatherRunner.testAll (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherKarate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weatherAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weatherAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.weatherAPI.weatherRunner" />
+      <option name="METHOD_NAME" value="testAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weatherRunner.testSingleFeature (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherKarate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weatherAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weatherAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.weatherAPI.weatherRunner" />
+      <option name="METHOD_NAME" value="testSingleFeature" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weatherRunner.testUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherKarate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weatherAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weatherAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.weatherAPI.weatherRunner" />
+      <option name="METHOD_NAME" value="testUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weatherRunner.testWeatherFeatures (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherKarate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weatherAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weatherAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.weatherAPI.weatherRunner" />
+      <option name="METHOD_NAME" value="testWeatherFeatures" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.runFeature.testFeature" />
+        <item itemvalue="JUnit.weatherRunner.testWeatherFeatures (1)" />
+        <item itemvalue="JUnit.weatherRunner.testSingleFeature (1)" />
+        <item itemvalue="JUnit.weatherRunner.testAll (2)" />
+        <item itemvalue="JUnit.weatherRunner.testUsers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a2417b-2a9e-40c0-9fc4-f35e1a52c148" name="Default Changelist" comment="" />
+      <created>1604839669430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604839669430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604844473549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604844473549" />
+    <state width="1493" height="135" key="GridCell.Tab.0.bottom" timestamp="1605008770331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605008770331" />
+    <state width="1493" height="135" key="GridCell.Tab.0.center" timestamp="1605008770331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605008770331" />
+    <state width="1493" height="135" key="GridCell.Tab.0.left" timestamp="1605008770331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605008770331" />
+    <state width="1493" height="135" key="GridCell.Tab.0.right" timestamp="1605008770331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605008770331" />
+    <state width="1493" height="308" key="GridCell.Tab.1.bottom" timestamp="1604893334170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604893334170" />
+    <state width="1493" height="308" key="GridCell.Tab.1.center" timestamp="1604893334170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604893334170" />
+    <state width="1493" height="308" key="GridCell.Tab.1.left" timestamp="1604893334170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604893334170" />
+    <state width="1493" height="308" key="GridCell.Tab.1.right" timestamp="1604893334170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604893334170" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1605010179656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605010179656" />
+    <state x="209" y="117" key="new project wizard" timestamp="1604885857595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604885857595" />
+    <state x="521" y="343" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1604842480480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="343" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1604842480480" />
+  </component>
+</project>
